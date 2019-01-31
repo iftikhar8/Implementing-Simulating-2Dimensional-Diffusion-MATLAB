@@ -21,7 +21,7 @@ Resulting Temperature distribution at equilibrium:
 
 ![alt text](https://raw.githubusercontent.com/Attaras/Implementing-Simulating-2Dimensional-Diffusion-MATLAB/master/temp_profile.png)
 
-##Comparison of temperature profile at a line from three meshes(50,100,250):
+##Comparison of the temperature profiles taken from a central horizontal line from the three meshes(50,100,250):
 
 ![alt text](https://raw.githubusercontent.com/Attaras/Implementing-Simulating-2Dimensional-Diffusion-MATLAB/master/Comparison%20of%20different%20meshs%20error%200.001.png)
 
