@@ -1,5 +1,5 @@
-# Implementing-Simulating-2Dimensional-Diffusion-MATLAB
- Simulating 2 Dimensional temperature distribution on a plate using the finite volume method to discretize the diffusion equation and Gauss-Seidel iterative method for solving the systems equations.
+# Implementing-Simulating-2Dimensional-Diffusion-MATLAB (2017)
+Simulating 2 Dimensional temperature distribution on a plate using the finite volume method to discretize the diffusion equation and Gauss-Seidel iterative method for solving the systems equations.
 
 ## Introduction
 The Diffusion equation is a Partial Differential Equation that describes the phenomena of diffusion, The Diffusion Equation is a general equation, and in the simplest form, it can be stated simply as the following:
