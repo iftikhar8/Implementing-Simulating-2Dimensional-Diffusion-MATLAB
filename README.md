@@ -4,6 +4,7 @@ Simulating 2 Dimensional temperature distribution on a plate using the finite vo
 results video animation (https://youtu.be/bFFg4KAUqos)
 
 ![alt text](https://github.com/Attaras/Implementing-Simulating-2Dimensional-Diffusion-MATLAB/blob/master/CFD%20gif.gif?raw=true)
+Temperature rise with time.
 
 ## Introduction
 The Diffusion equation is a Partial Differential Equation that describes the phenomena of diffusion, The Diffusion Equation is a general equation, and in the simplest form, it can be stated simply as the following:
@@ -31,10 +32,10 @@ Resulting Temperature distribution at equilibrium:
 
 ![alt text](https://raw.githubusercontent.com/Attaras/Implementing-Simulating-2Dimensional-Diffusion-MATLAB/master/temp_profile.png)
 
-## Comparison of the temperature profiles taken from a central horizontal line from the three meshes(50,100,250)
+## Comparison of The Temperature Profiles Taken from a Central Horizontal Line from the Three Meshes(50,100,250)
 
 ![alt text](https://raw.githubusercontent.com/Attaras/Implementing-Simulating-2Dimensional-Diffusion-MATLAB/master/Comparison%20of%20different%20meshs%20error%200.001.png)
 
-## Simulation Time and Minimum Temperature for each mesh
+## Simulation Time and Minimum Temperature for Each Mesh
 
 ![alt text](https://raw.githubusercontent.com/Attaras/Implementing-Simulating-2Dimensional-Diffusion-MATLAB/master/Simulation%20Time%20and%20Min%20Temp%20Comparison.png)
