@@ -3,6 +3,8 @@ Simulating 2 Dimensional temperature distribution on a plate using the finite vo
 
 results video animation (https://youtu.be/bFFg4KAUqos)
 
+![alt text](https://github.com/Attaras/Implementing-Simulating-2Dimensional-Diffusion-MATLAB/blob/master/CFD%20gif.gif?raw=true)
+
 ## Introduction
 The Diffusion equation is a Partial Differential Equation that describes the phenomena of diffusion, The Diffusion Equation is a general equation, and in the simplest form, it can be stated simply as the following:
 
